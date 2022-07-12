@@ -1,0 +1,4 @@
+1.Application：点击程序图标，执行main函数，通过UIApplicationMain函数，初始化UIApplication对象并为它设置代理对象，UIApplication对象，程序结束退出
+   ViewController：alloc/init, loadView, viewDidLoad, viewWillAppear, viewDidAppear, viewWillDisappear, viewDidDisappear, dealloc
+2.UIScrollView, UITableView, UICollectionView, UIWebView, WKWebView
+3. UITableViewStateActive, UITableViewStateInactive, UITableViewStateBackground
