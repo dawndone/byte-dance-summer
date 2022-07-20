@@ -1,0 +1,11 @@
+@interface Student:
+{
+  NSString* name;
+  NSString* major;
+  int age;
+}
+-(void)study:(float)time
+{
+  Printf(“study time:%f”,time);
+}
+@end
